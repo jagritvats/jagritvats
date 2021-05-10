@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Jagrit and I'm new to github.
 - 🌱 I’m currently learning Java and advanced web development concepts.
-- ✨ I currently have knowledge of Python and can build Simple and responsive web pages.
+- ✨ I currently have knowledge of Python and can build websites with decent features.
 
 <!--
 **jagritvats/jagritvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
