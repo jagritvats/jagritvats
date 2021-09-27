@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Jagrit and I'm new to github.
-- 🌱 I’m currently learning Java and advanced web development concepts.
+- 🌱 I’m currently learning Data structures and advanced web development concepts.
 - ✨ I currently have knowledge of Python and can build websites with decent features.
 
 <!--
