@@ -2,6 +2,7 @@
 #### I'm Jagrit and I'm new to github.
 - 🌱 I’m currently learning Data structures and advanced web development concepts.
 - ✨ I currently have knowledge of Python and can build websites with decent features.
+- ⚡ Check out one of my web projects at https://prestoj.netlify.app/ .
 
 <!--
 **jagritvats/jagritvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
