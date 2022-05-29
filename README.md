@@ -4,6 +4,7 @@
 - ✨ I currently have knowledge of Python and can build websites with decent features.
 - ⚡ Check out one of my web projects at https://prestoj.netlify.app/ .
 - 📫 My LinkedIn Profile is https://www.linkedin.com/in/jagrit-v-1ab521111/ .
+- Check out my [website](https://jagritvats.netlify.app/) (WIP) .
 
 <!--
 **jagritvats/jagritvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
