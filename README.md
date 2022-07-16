@@ -1,10 +1,11 @@
 ### Hi there 👋
-#### I'm Jagrit and I'm new to github.
-- 🌱 I’m currently learning Data structures and advanced web development concepts.
-- ✨ I currently have knowledge of Python and can build websites with decent features.
-- ⚡ Check out one of my web projects at https://prestoj.netlify.app/ .
-- 📫 Check out my [LinkedIn Profile](https://www.linkedin.com/in/jagritvats/) to know more about my skills.
-- 😄 Check out my [website](https://jagritvats.netlify.app/) to learn more about me and check out my projects (WIP) .
+#### I'm Jagrit Vats, a third year CSE Student. I've passion for tech and love to learn more about it everyday.
+- 🌱 I’m currently levelling up in Data structures and Advanced Web Development concepts.
+- ✨ I currently have knowledge of Python and can build MERN stack web apps with decent features.
+- 😄 Check out my [website](https://jagritvats.netlify.app/).
+- ⚡ Check out one of web project, [Presto](https://prestoj.netlify.app/) which I worked on, made using React, Redux and Firebase .
+- 📫 Check out my [LinkedIn Profile](https://www.linkedin.com/in/jagritvats/) to know more about me and my skills.
+
 
 <!--
 **jagritvats/jagritvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
