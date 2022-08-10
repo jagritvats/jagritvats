@@ -1,9 +1,9 @@
 ### Hi there 👋
 #### I'm Jagrit Vats, a third year CSE Student. I've passion for tech and love to learn more about it everyday.
-- 🌱 I’m currently levelling up in Data structures and Advanced Web Development concepts.
-- ✨ I currently have knowledge of Python and can build MERN stack web apps with decent features.
+- 🌱 I’m currently levelling up in DSA and Advanced Web Development concepts.
+- ✨ I'm familiar with working using Python and can build fully functional MERN stack web applications.
 - 😄 Check out my [website](https://jagritvats.netlify.app/).
-- ⚡ Check out one of web project, [Presto](https://prestoj.netlify.app/) which I worked on, made using React, Redux and Firebase .
+- ⚡ Check out one of web projects which I worked on with a team, [Presto](https://prestoj.netlify.app/), made using React, Redux and Firebase.
 - 📫 Check out my [LinkedIn Profile](https://www.linkedin.com/in/jagritvats/) to know more about me and my skills.
 
 
