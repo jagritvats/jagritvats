@@ -46,6 +46,11 @@
 
 ### Recent Activity : 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#57](https://github.com/kuldeepsingh33/DSA-Basic/pull/57) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
+2. 🗣 Commented on [#336](https://github.com/blueedgetechno/win11React/issues/336) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. ❗️ Opened issue [#58](https://github.com/kuldeepsingh33/DSA-Basic/issues/58) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
+4. 💪 Opened PR [#57](https://github.com/kuldeepsingh33/DSA-Basic/pull/57) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
+5. ❗️ Closed issue [#467](https://github.com/Knackie/algorithmshacktoberfest2022/issues/467) in [Knackie/algorithmshacktoberfest2022](https://github.com/Knackie/algorithmshacktoberfest2022)
 <!--END_SECTION:activity-->
 
 #### My Primary/Favorite Language *currently* :)
