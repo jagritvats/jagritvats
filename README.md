@@ -44,6 +44,9 @@
   
 </p>
 
+### Recent Activity : 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 #### My Primary/Favorite Language *currently* :)
 > ![JavaScript](https://user-images.githubusercontent.com/69034224/200609815-906170ba-b75b-44bc-95d0-b0b66a757f6d.png)
