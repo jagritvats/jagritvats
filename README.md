@@ -15,20 +15,24 @@
   let technologies = ['HTML', 'CSS', 'JavaScript', 'C++', 'Java', 'React', 'Node.js', ...more]
   let hobbies = ['Reading', 'Discussing', 'Binging', 'Learning', ...more]
 ```
+<details>
+   <summary><h3> Languages and Technologies I've worked with : </h3></summary>
+   <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>C++</li>
+      <li>Java</li>
+      <li>React</li>
+      <li>Node.js</li>
+      <li>MongoDB</li>
+      <li>SQL</li>
+      <li>Bash</li>
+      <li>Cloud</li>
+      <li>Git 👈</li>
+   <ul>
 
-#### Languages and Technologies I've worked with : 
-- HTML 
-- CSS
-- JavaScript
-- C++
-- Java
-- React
-- Node.js
-- MongoDB
-- SQL
-- Bash
-- Cloud
-- Git 👈
+</details>
 
 <p align="center">
   <img 
