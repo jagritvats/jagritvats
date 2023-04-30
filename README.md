@@ -1,8 +1,7 @@
 ## Hi there 👋
 #### I'm `Jagrit Vats`, a third year CSE Student. I've passion for tech and love to learn about new things everyday.
 - 🌱 I’m *currently* levelling up in *Algorithms* and trying to get starting with *containerization*.
-- 👉 I'm working on **React JS**, **Firebase** and **Node JS** *apps*.
-- ✨ I'm familiar with working using Python and can build fully functional MERN stack web applications.
+- 👉 I'm working on **Next JS**, **Firebase** and **Node JS** *apps*.
 - 😄 Check out *my [website](https://jagritvats.netlify.app/)*.
 - ⚡ Check out one of web projects which I worked on with a team, [**Presto**](https://prestoj.netlify.app/), made using *React*, *Redux* and *Firebase*.
 - 📫 Check out my [**LinkedIn Profile**](https://www.linkedin.com/in/jagritvats/) to know more about me and my skills. 
