@@ -45,7 +45,7 @@
 
 ### Recent Activity : 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#57](https://github.com/kuldeepsingh33/DSA-Basic/pull/57) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
+1. 💪 Opened PR [#635](https://github.com/gladly-team/next-firebase-auth/pull/635) in [gladly-team/next-firebase-auth](https://github.com/gladly-team/next-firebase-auth)
 2. 🗣 Commented on [#336](https://github.com/blueedgetechno/win11React/issues/336) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 3. ❗️ Opened issue [#58](https://github.com/kuldeepsingh33/DSA-Basic/issues/58) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
 4. 💪 Opened PR [#57](https://github.com/kuldeepsingh33/DSA-Basic/pull/57) in [kuldeepsingh33/DSA-Basic](https://github.com/kuldeepsingh33/DSA-Basic)
