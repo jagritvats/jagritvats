@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm `Jagrit Vats`, a third year CSE Student. I've passion for tech and love to learn about new things everyday.
+#### I'm `Jagrit Vats`, a forever Student. I've passion for tech and love to learn about new things everyday.
 - 🌱 I’m *currently* levelling up in *Algorithms* and trying to get starting with *containerization*.
 - 👉 I'm working on **Next JS**, **Firebase** and **Node JS** *apps*.
 - 😄 Check out *my [website](https://jagritvats.netlify.app/)*.
@@ -10,8 +10,8 @@
 ```js
   const first_name = 'Jagrit'
   const last_name = 'Vats'
-  let age = 20
-  let technologies = ['HTML', 'CSS', 'JavaScript', 'C++', 'Java', 'React', 'Node.js', ...more]
+  let age = 22
+  let technologies = ['Spring boot', 'Kafka', HTML', 'CSS', 'JavaScript', 'C++', 'Java', 'React', 'Node.js', ...more]
   let hobbies = ['Reading', 'Discussing', 'Binging', 'Learning', ...more]
 ```
 <details>
