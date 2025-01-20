@@ -11,7 +11,7 @@
   const first_name = 'Jagrit'
   const last_name = 'Vats'
   let age = 22
-  let technologies = ['Spring boot', 'Kafka', HTML', 'CSS', 'JavaScript', 'C++', 'Java', 'React', 'Node.js', ...more]
+  let technologies = ['Spring boot', 'Kafka', 'HTML', 'CSS', 'JavaScript', 'C++', 'Java', 'React', 'Node.js', ...more]
   let hobbies = ['Reading', 'Discussing', 'Binging', 'Learning', ...more]
 ```
 <details>
