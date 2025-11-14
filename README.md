@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm `Jagrit Vats`, a forever Student (also a professional now :) ). I've passion for tech and love to learn about new things everyday.
-- 🌱 I’m *currently* levelling up in *Algorithms* and learning more about *advanced Java*.
-- 👉 I'm working on **Spring Boot** *applications*.
+- 🌱 I’m *currently* vibe coding fun projects and learning more about *advanced Java*.
+- 👉 I'm working on **Spring Boot** *applications* professionally.
 - 😄 Check out *my [website](https://jagritvats.netlify.app/)*.
 - ⚡ Check out one of web projects which I worked on with a team, [**Presto**](https://prestoj.netlify.app/), made using *React*, *Redux* and *Firebase*.
 - 📫 Check out my [**LinkedIn Profile**](https://www.linkedin.com/in/jagritvats/) to know more about me and my skills. 
@@ -10,8 +10,8 @@
 ```js
   const first_name = 'Jagrit'
   const last_name = 'Vats'
-  let age = 22
-  let technologies = ['Spring boot', 'Kafka', 'Java', 'React', 'Express', ...more]
+  let age = 23
+  let technologies = ['Spring boot', 'Kafka', 'Java', 'React', 'TS', ...more]
   let hobbies = ['Reading', 'Discussing', 'Binging', 'Learning', ...more]
 ```
 <details>
